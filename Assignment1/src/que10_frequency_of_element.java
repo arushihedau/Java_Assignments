@@ -16,7 +16,6 @@ public class que10_frequency_of_element {
                 System.out.println("Element: "+ele+" Frequency: "+mpp.get(ele));
                 mpp.remove(ele);
             }
-            else continue;
         }
 
     }
